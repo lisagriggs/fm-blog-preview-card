@@ -32,8 +32,8 @@ Should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-created-with-html-and-css-rbyy6fI4O8](Solution)
+- Live Site URL: [https://willowy-palmier-2e22a2.netlify.app](https://willowy-palmier-2e22a2.netlify.app)
 
 ## My process
 
