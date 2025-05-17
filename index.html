@@ -47,7 +47,7 @@
     #card { 
       background-color: hsl(0, 0%, 100%);
       margin: 20px auto;
-      width: 384px;
+      max-width: 384px;
       min-height: 500px;
       border-radius: 20px;
       border: 1px solid hsl(0, 0%, 7%);
@@ -101,19 +101,19 @@
 <body>
 
  <main id="card">
-  <section id="card-elements">
+  <article id="card-elements">
     <img src="./images/illustration-article.svg" alt="card-image">
-    <article id="card-info">
+    <div id="card-info">
       <p id="tag">Learning</p>
       <p>Published 21 Dec 2023</p>
       <h1>HTML & CSS foundations</h1>
       <p class="description">These languages are the backbone of every website, defining structure, content, and presentation.</p>
-    </article>
+    </div>
     <div id="author">
       <img src="./images/image-avatar.webp" alt="Author Image" width="32" height="32">
       <p>Greg Hooper</p>
     </div>
-  </section>
+  </article>
 
  </main>
   
